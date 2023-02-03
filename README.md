@@ -1,40 +1,36 @@
-Flipkart mobile Data Analysis 
+1). Flipkart mobile Data Analysis 
 
 Built with
 SQL Languages
 
-Tools
+Tools used
 MySQL Workbench
 
-Challenges
 
-
-Layoffs_data Analysis
+2). Layoffs_data Analysis
 
 Built with
 Python Languages
 
-Tools
+Tools used
 Jupyter notebook
 
-Challenges
 
-Sales Report Analysis
-
-Built with
-Power BI
-
-Tools
-Power BI
-
-Challenges
-
-Unicorn Company Report
+3). Sales Report Analysis
 
 Built with
 Power BI
 
-Tools
+Tools used
+Power BI
+
+
+4). Unicorn Company Report
+
+Built with
+Power BI
+
+Tools used
 Power BI
 
 Challenges
