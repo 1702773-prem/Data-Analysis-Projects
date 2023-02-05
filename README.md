@@ -33,4 +33,11 @@ Power BI
 Tools used
 Power BI
 
+5). Web Scraping mini project 
+Built with
+Python libaries requests, BeautifulSoup, csv
+
+Tools used
+Jupyter notebook
+
 
